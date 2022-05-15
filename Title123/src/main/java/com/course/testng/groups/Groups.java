@@ -29,7 +29,7 @@ public class Groups {
     }
     @AfterGroups("client")
     public void tese6(){
-        System.out.println("用例后运行6号----------");
+        System.out.println("用例后运行6号------------");
     }
 
 }
